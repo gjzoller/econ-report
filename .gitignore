@@ -1,2 +1,3 @@
 data/original-data.csv
-out/*.txt
+out/
+!out/hard-to-estimate.dat
